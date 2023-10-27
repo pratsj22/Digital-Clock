@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  width: 500px;
+  margin: auto;
+}
+
+.grid {
+  width: 400px;
+  height: 100px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.g-col-3 {
+  font-size: 30px;
+  width: 80px;
+  height: 50px;
+}
+
+.colon {
+  color: white;
+  font-size: 35px;
+}
+
+.blink {
+  color: black;
+}
